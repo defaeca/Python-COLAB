@@ -11,4 +11,4 @@ num5 = float(input("Digite numero 5 : "))
 
 media = (num1 + num2 + num3 + num4 + num5)/5
 
-print(f"A média entre eles é de ", {media})
+print(f"A média entre eles é de", {media})
